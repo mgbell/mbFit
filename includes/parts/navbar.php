@@ -8,5 +8,5 @@
 <ul class="sidenav" id="mobile">
   	<li><a href="./index.php">Home</a></li>
  	<li><a href="./workouts.php">Workouts</a></li>
-  	<li><a href="./about">Components</a></li>
+  	<li><a href="./about.php">About</a></li>
 </ul>
