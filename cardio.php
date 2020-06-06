@@ -1,15 +1,15 @@
 <?php  
 
 /* HOME PAGE */ 
-$pageTitle = "Workouts";
+$pageTitle = "Cardio";
 
 ?>
 
 <title><?php echo $pageTitle; ?></title>
 
-<?php  
+<?php 
 
 /* Load page */ 
-include "./includes/parts/page.php";
+include "./includes/parts/page.php"; 
 
 ?>

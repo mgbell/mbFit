@@ -57,7 +57,7 @@ include "./includes/parts/page.php";
                         I am convenient because I require little markup to use effectively.</p>
                 </div>
                 <div class="card-action">
-                    <a href="#" class="black-text">Explore workouts</a>
+                    <a href="./cardio.php" class="black-text">Explore workouts</a>
                 </div>
             </div>
         </div>
