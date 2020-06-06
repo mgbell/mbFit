@@ -18,7 +18,6 @@ include "./includes/parts/page.php";
 <div class="container">
     <div class="row">
         <h2 class="grey-text text-darken-2 center">Welcome to mbFit</h2>
-        <div class="row"></div>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum eligendi qui culpa magni architecto iure quas vel natus?</p>
     </div>
 </div>
@@ -30,7 +29,7 @@ include "./includes/parts/page.php";
 
 		<!-- card 1 -->
         <div class="row">
-            <div class="card">
+            <div class="card hoverable">
                 <div class="card-image">
                     <img height="180px;" src="images/background-1.jpg">
                     <span class="card-title">Bodyweight</span>
@@ -47,7 +46,7 @@ include "./includes/parts/page.php";
 
 		<!-- card 2 -->
         <div class="row">
-            <div class="card">
+            <div class="card hoverable">
                 <div class="card-image">
                     <img height="180px;" src="images/background-2.jpg">
                     <span class="card-title">Cardio</span>

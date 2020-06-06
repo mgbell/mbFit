@@ -3,3 +3,10 @@
 $(document).ready(function(){
     $('.sidenav').sidenav();
 });
+
+/* Bodyweight - Easy */
+
+function bodyweightEasy() {
+	$('#letsGo').hide();
+	$('#theInstruction').html("<p>test</p>");
+}
