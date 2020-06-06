@@ -1,6 +1,6 @@
 <?php  
 
-/* HOME PAGE */ 
+/* ABOUT PAGE */ 
 $pageTitle = "About";
 
 ?>

@@ -1,6 +1,6 @@
 <?php  
 
-/* HOME PAGE */ 
+/* CARDIO PAGE */ 
 $pageTitle = "Cardio";
 
 ?>

@@ -1,6 +1,6 @@
 <?php  
 
-/* HOME PAGE */ 
+/* BODYWEIGHT PAGE */ 
 $pageTitle = "Bodyweight";
 
 ?>
